@@ -1,6 +1,3 @@
-// ============================================
-// FILE 6: pages/api/abbreviations.js
-// ============================================
 import { kv } from '@vercel/kv';
 
 export default async function handler(req, res) {
